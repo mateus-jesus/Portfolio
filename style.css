@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+}
+body {
+    margin: 0px;
+    padding: 0%;
+}
+.titulo {
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    
+}
+article {
+    background-color: brown;
+    height: 400px;
+    width: 100%;
+    
+}
+
+footer {
+    background-color: grey;
+    height: 200px;
+    width: 100%;
+   
+}
+
+p {
+    color: black
+    
+    
+}
